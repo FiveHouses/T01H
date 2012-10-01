@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADHDGame", "ADHDGame\ADHDGame\ADHDGame.csproj", "{1E690946-895C-4184-9B5A-227EE8AA91EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADHDGameContent", "ADHDGame\ADHDGameContent\ADHDGameContent.contentproj", "{735BB6A7-8F95-43D1-A202-D7E154C378E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E690946-895C-4184-9B5A-227EE8AA91EA}.Debug|x86.ActiveCfg = Debug|x86
+		{1E690946-895C-4184-9B5A-227EE8AA91EA}.Debug|x86.Build.0 = Debug|x86
+		{1E690946-895C-4184-9B5A-227EE8AA91EA}.Release|x86.ActiveCfg = Release|x86
+		{1E690946-895C-4184-9B5A-227EE8AA91EA}.Release|x86.Build.0 = Release|x86
+		{735BB6A7-8F95-43D1-A202-D7E154C378E8}.Debug|x86.ActiveCfg = Debug|x86
+		{735BB6A7-8F95-43D1-A202-D7E154C378E8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
